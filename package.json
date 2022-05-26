@@ -1,0 +1,22 @@
+{
+  "name": "peertransmissionprotocol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoSecretImprove/PeerTransmissionProtocol.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoSecretImprove/PeerTransmissionProtocol/issues"
+  },
+  "homepage": "https://github.com/NoSecretImprove/PeerTransmissionProtocol#readme",
+  "dependencies": {
+    "ip6addr": "^0.2.5"
+  }
+}
